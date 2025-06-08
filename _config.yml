@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Head
 twitter_username: AbhinavaDe
 github_username: Abhi-115
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Abhinava De"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Researching next-generation hardware security solutions and quantum-resistant cryptographic implementations at IISC, Bangalore"
+  bio    : "Researching Next-Generation Hardware Security solutions and Quantum-resistant Cryptographic Implementations at IISC, Bangalore"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
