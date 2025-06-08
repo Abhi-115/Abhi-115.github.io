@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Abhinava De
+subtitle: IISc, Bangalore
 email: abhinavade@iisc.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
   Head
 twitter_username: AbhinavaDe
 github_username: Abhi-115
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
