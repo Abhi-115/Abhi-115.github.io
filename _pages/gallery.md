@@ -24,4 +24,4 @@ gallery:
     title: "Gesture Controlled Car, Open Day 2025"
 ---
 
-{% include gallery class = "full" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="half" class = "full" caption="This is a sample gallery with **Markdown support**." %}
