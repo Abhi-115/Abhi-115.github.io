@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Abhinava De"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dp_img.png"
   bio    : "Researching Next-Generation Hardware Security solutions and Quantum-resistant Cryptographic Implementations at IISC, Bangalore"
   links:
     - label: "Website"
