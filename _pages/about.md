@@ -10,3 +10,5 @@ My research focuses on the efficient hardware implementation of Post-Quantum Cry
 Beyond cryptography, I'm also passionate about building energy-efficient hardware accelerators for machine learning (ML) classifiers, especially for integration in wearable electronics used in real-time, critical physiological signal monitoring, with applications for both patients and athletes.
 
 I completed my Bachelor of Technology in Electronics and Telecommunication Engineering from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur, in 2024. My undergraduate thesis was titled “Smart Agreements in the Decentralized P2P Network of Ethereum.”
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
