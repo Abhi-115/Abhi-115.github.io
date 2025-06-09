@@ -61,35 +61,44 @@ author:
   name   : "Abhinava De"
   avatar : "/assets/images/dp_image.jpeg"
   bio    : "Researching Next-Generation Hardware Security solutions and Quantum-Resistant Cryptographic Implementations at IISc, Bangalore"
-  location: Indian Institute of Science, Bangalore
+  location: IISc, Bangalore
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://abhi-115.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Abhi-115"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://abhi-115.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/abhinava-de-592b9b245/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-footer:
-  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.co.in/citations?user=T8IA-zoAAAAJ&hl=en&authuser=2"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/AbhinavaDe?t=mfPFVPr5mMrAO_AKrg9VYQ&s=09"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Abhi-115"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/abhinava-de-592b9b245/"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.co.in/citations?user=T8IA-zoAAAAJ&hl=en&authuser=2"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/AbhinavaDe?t=mfPFVPr5mMrAO_AKrg9VYQ&s=09"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Abhi-115"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
 
 defaults:
   # _posts
