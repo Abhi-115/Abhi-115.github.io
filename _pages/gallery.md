@@ -16,4 +16,6 @@ Here are some moments from recent events:
 <a href="/assets/images/vlsid_all_fellows.jpeg" data-lightbox="gallery" data-title="Group Picture with VLSID'25 Fellows">
     <img src="/assets/images/vlsid_all_fellows.jpeg" alt="VLSID Fellows" style="width: 100%; margin-bottom: 1rem; border-radius: 8px;">
 </a>
-
+<a href="/assets/images/eecs_medal.jpg" data-lightbox="gallery" data-title="Group Picture with VLSID'25 Fellows">
+    <img src="/assets/images/eecs_medal.jpg" alt="VLSID Fellows" style="width: 100%; margin-bottom: 1rem; border-radius: 8px;">
+</a>
