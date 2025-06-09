@@ -15,7 +15,8 @@ Interested in collaborating on research projects or discussing post-quantum cryp
   <p>
     <i class="fas fa-map-marker-alt"></i>
     <strong>Lab Location</strong><br>
-    Circuits & Security Research Lab, Department of ESE,<br>
+    Circuits & Security Research Lab, <br>
+    Department of Electronic Systems Engineering,<br>
     IISc Bangalore
   </p>
 </div>
@@ -23,7 +24,7 @@ Interested in collaborating on research projects or discussing post-quantum cryp
 <div class="social-links">
   <h2>Connect</h2>
   <a href="https://www.linkedin.com/in/abhinava-de-592b9b245/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  <a href="https://x.com/AbhinavaDe?t=mfPFVPr5mMrAO_AKrg9VYQ&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
+  <a href="https://scholar.google.co.in/citations?user=T8IA-zoAAAAJ&hl=en&authuser=2" target="_blank"><i class="fas fa-graduation-cap"></i></a>
   <a href="https://github.com/Abhi-115" target="_blank"><i class="fab fa-github"></i></a>
 </div>
 
