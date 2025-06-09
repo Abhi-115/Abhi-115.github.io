@@ -22,8 +22,8 @@ Interested in collaborating on research projects or discussing post-quantum cryp
 
 <div class="social-links">
   <h2>Connect</h2>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><i class="fab fa-twitter"></i></a>
-  <a href="https://github.com/yourprofile" target="_blank"><i class="fab fa-github"></i></a>
+  <a href="https://www.linkedin.com/in/abhinava-de-592b9b245/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  <a href="https://x.com/AbhinavaDe?t=mfPFVPr5mMrAO_AKrg9VYQ&s=09" target="_blank"><i class="fab fa-twitter"></i></a>
+  <a href="https://github.com/Abhi-115" target="_blank"><i class="fab fa-github"></i></a>
 </div>
 
