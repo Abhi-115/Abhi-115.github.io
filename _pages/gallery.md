@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /gallery/
 title: "Gallery"
 gallery:
@@ -25,4 +25,22 @@ gallery2:
 #     title: "Gesture Controlled Car, Open Day 2025"
 ---
 {% include gallery id="gallery" layout="full" %}
-{% include gallery id="gallery2 layout="half" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery2 layout="half" caption="This is a sample gallery with **Markdown support**." %} -->
+
+
+---
+title: "Gallery"
+layout: single
+permalink: /gallery/
+---
+
+Here are some moments from recent events:
+
+<!-- Full-width image -->
+<img src="/assets/images/csrl_grp_may25.jpeg" alt="CSRL group pic" style="width: 100%; margin-bottom: 1rem; border-radius: 8px;">
+
+<!-- Row with two half-width images -->
+<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+  <img src="/assets/images/ieee_krishnapura.jpeg" alt="IEEE-IISc VLSI Chapter Team Dinner with Prof. Nagendra Krishnapura" style="width: 48%; border-radius: 8px;">
+  <img src="/assets/images/vlsid_all_fellows.jpeg" alt="VLSID fellows" style="width: 48%; border-radius: 8px;">
+</div>
