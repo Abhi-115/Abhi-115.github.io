@@ -24,9 +24,7 @@ gallery2:
 #     alt: "Open Day RC car"
 #     title: "Gesture Controlled Car, Open Day 2025"
 ---
-{% include gallery id="gallery" layout="full" %}
-{% include gallery id="gallery2 layout="half" caption="This is a sample gallery with **Markdown support**." %} -->
-
+-->
 
 ---
 title: "Gallery"
