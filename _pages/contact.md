@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Get in Touch"
 ---
 
-Interested in collaborating on research projects or discussing post-quantum cryptography? I'm always open to academic collaboration and industry partnerships.
+Interested in collaborating on research projects in hardware security or discussing post-quantum cryptography? I'm always open to academic collaboration and industry partnerships.
 
 <div class="contact-info">
   <h2>Contact Information</h2>

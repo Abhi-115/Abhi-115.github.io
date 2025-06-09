@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hi! I’m Abhinava De, a Ph.D. student in the Circuits and Security Research Lab at the Department of Electronic Systems Engineering, Indian Institute of Science (IISc), Bangalore.
+Hi! I’m Abhinava De, a Ph.D. student in the [Circuits and Security Research Lab](https://labs.dese.iisc.ac.in/csrl/) at the Department of Electronic Systems Engineering, Indian Institute of Science (IISc), Bangalore.
 
 My research focuses on the efficient hardware implementation of Post-Quantum Cryptographic (PQC) circuits and side-channel resistant cryptographic designs. I aim to develop secure and robust cryptographic hardware capable of withstanding both classical and quantum attacks.
 
