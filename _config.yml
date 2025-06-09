@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Abhinava De"
   avatar : "/assets/images/dp_image.jpeg"
-  bio    : "Researching Next-Generation Hardware Security solutions and Quantum-resistant Cryptographic Implementations at IISC, Bangalore"
+  bio    : "Researching Next-Generation Hardware Security solutions and Quantum-Resistant Cryptographic Implementations at IISc, Bangalore"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -106,6 +106,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _lightbox
+  - scope:
+      path: ""
+    values:
+      css:
+        - /assets/css/lightbox.css
+      js:
+        - /assets/js/lightbox.js
 
 category_archive:
   type: liquid
