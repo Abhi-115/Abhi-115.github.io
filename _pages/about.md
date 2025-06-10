@@ -47,27 +47,21 @@ Percentage: 97.8%
 
 ## 🧩 Positions of Responsibility
 
-- Webmaster, IEEE-IISc VLSI Special Interest Group
-<!-- - Student Coordinator, DESE Hardware Hackathon 2024
-- Departmental Football Team Member – EECS Sports Meet, IISc -->
+- Webmaster, IEEE-IISc VLSI Chapter
 
 ---
 
 ## 🏅 Academic Honors
 
-<!-- - Selected as a Student Fellow, VLSID 2025
-- Departmental Rank: 2, Batch Rank: 6, IIEST Shibpur
-- All India Rank <insert rank>, GATE Electronics & Communication 2023
-- Second Place – Statewide Drawing Competition, Bengal Chamber of Commerce (2012) -->
-<table>
+<table style="border-collapse: collapse;">
   <tbody>
     <tr>
       <td><strong>2025</strong></td>
       <td>Selected as a Student Fellow, VLSID 2025</td>
     </tr>
     <tr>
-      <td><strong>2024</strong></td>
-      <td>Graduated with a departmental rank of 2 (6th overall in the batch) with a CGPA of 9.51, IIEST, Shibpur</td>
+      <td style="padding-right: 20px;"><strong>2024</strong></td>
+      <td>Graduated with a departmental rank of 2 and 6th overall in the batch with a CGPA of 9.51, IIEST, Shibpur</td>
     </tr>
     <!-- <tr>
       <td><strong>2024</strong></td>
@@ -79,17 +73,18 @@ Percentage: 97.8%
     </tr> -->
     <tr>
       <td><strong>2023</strong></td>
-      <td>Qualified as finalists by finishing in top 20 teams at <strong>COMSYS 2023</strong> Hackathon organized by IIT Mandi</td>
+      <td>Qualified as finalists by finishing amongst top 20 teams at <strong>COMSYS 2023</strong> Hackathon organized by IIT Mandi</td>
     </tr>
     <tr>
       <td><strong>2023</strong></td>
-      <td>Selected for the <strong>SURGE</strong>, <strong>SPARK</strong>, and <strong>SRIP</strong> Research Internship Programs at IIT Kanpur, IIT Roorkee, and IIT Gandhinagar, respectively</td>
+      <td>Selected for <strong>SURGE</strong>, <strong>SPARK</strong>, and <strong>SRIP</strong> internship programs at IIT Kanpur, IIT Roorkee, and IIT Gandhinagar</td>
     </tr>
     <tr>
       <td><strong>2018</strong></td>
-      <td>Received accolades from the Chief Minister of West Bengal for being among the top 10 rankers nationwide in AISSCE 2018</td>
+      <td>Received accolades from the Chief Minister of West Bengal for being among the top 10 rankers nationwide in AISSE 2018</td>
     </tr>
   </tbody>
 </table>
+
 
 ---
