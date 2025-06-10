@@ -22,7 +22,7 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 
 <p>
   <strong>Indian Institute of Science (IISc), Bangalore</strong><br>
-  <em>Ph.D. in Electronic Systems Engineering<em><br>
+  <em>Ph.D. in Electronic Systems Engineering</em><br>
   <em>Aug 2024 – Present</em><br>
   Advisor: Dr. Debayan Das<br>
   CGPA: 8.8/10
@@ -31,9 +31,9 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 <p>
   <strong>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</strong><br>
   <em>B.Tech (Hons.) in Electronics and Telecommunication Engineering</em><br>
-  2020 – 2024<br>
-  CGPA: 9.51/10<br>
+  <em>2020 – 2024</em><br>
   Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
+  CGPA: 9.51/10<br>
 </p>
 <p>
   <strong>South Point High School</strong>, Kolkata
