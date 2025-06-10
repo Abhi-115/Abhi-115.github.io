@@ -22,9 +22,16 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 <div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
   <span style="color: #FF1493; font-weight: 500;">2024 – Present</span><br>
   <strong>Ph.D. in Electronic Systems Engineering</strong><br>
-  <span><em>Indian Institute of Science (IISc), Bangalore</em></span>
-  <span>Advisor: Dr. Debayan Das</span>
+  <span><em>Indian Institute of Science (IISc), Bangalore</em></span><br>
+  <span>Advisor: Dr. Debayan Das</span><br>
   <span>CGPA: 8.8/10</span>
+</div>
+<div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
+  <span style="color: #FF1493; font-weight: 500;">2024 – Present</span><br>
+  <strong>B.Tech (Hons.) in Electronics and Telecommunication Engineering</strong><br>
+  <span><em>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</em></span><br>
+  <span>Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em></span><br>
+  <span>CGPA: 9.51/10</span>
 </div>
 
 <p>
@@ -63,7 +70,14 @@ Percentage: 97.8% -->
 
 ## 🧩 Positions of Responsibility
 
-- Webmaster, IEEE-IISc VLSI Chapter
+<table style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td><strong>2025</strong></td>
+      <td>Webmaster, IEEE-IISc VLSI Chapter</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 🏅 Academic Honors
