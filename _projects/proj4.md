@@ -4,6 +4,6 @@ layout: single
 collection: projects
 excerpt: "Hardware implementation of Median Filters"
 header:
-  teaser: "/assets/images/surge1.jpg"
-  image:  "/assets/images/surge1.jpg"
+  teaser: "/assets/images/surge1.JPG"
+  image:  "/assets/images/surge1.JPG"
 ---
