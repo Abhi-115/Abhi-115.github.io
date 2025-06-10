@@ -18,26 +18,20 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 - Machine learning hardware accelerators for biomedical applications
 
 
-<h3>🎓 Education</h3>
+<h2>🎓 Education</h2>
 
 <p>
   <strong>Indian Institute of Science (IISc), Bangalore</strong><br>
   Ph.D. in Electronic Systems Engineering<br>
-  Aug 2024 – Present<br>
+  <em>Aug 2024 – Present</em><br>
+  Advisor: Dr. Debayan Das<br>
   CGPA: 8.8/10
 </p>
 
 <p>
-  <strong>Ph.D. in Electronic Systems Engineering</strong><br>
-  <em>Indian Institute of Science (IISc), Bangalore</em><br>
-  2020 – 2024<br>
-  CGPA: 9.51/10<br>
-  Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
-</p>
-<p>
   <strong>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</strong><br>
   B.Tech in Electronics and Telecommunication Engineering<br>
-  2018 – 2024<br>
+  2020 – 2024<br>
   CGPA: 9.51/10<br>
   Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
 </p>
