@@ -78,9 +78,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Abhi-115"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
 
 footer:
   links:
@@ -96,9 +96,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Abhi-115"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
 
 defaults:
   # _posts
