@@ -40,45 +40,11 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
   <span>Percentage: 95%</span>
 </div>
 <div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
-  <span style="color: #FF1493; font-weight: 500;">2020 – 2024</span><br>
-  <strong>AISSE</strong><br>
+  <span style="color: #FF1493; font-weight: 500;">2018</span><br>
+  <strong>AISSE 2018</strong><br>
   <span><em>South Point High School, Kolkata</em></span><br>
   <span>Percentage: 97.8%</span>
 </div>
-
-<p>
-  <strong>Indian Institute of Science (IISc), Bangalore</strong><br>
-  <em>Ph.D. in Electronic Systems Engineering</em><br>
-  <em>Aug 2024 – Present</em><br>
-  Advisor: Dr. Debayan Das<br>
-  CGPA: 8.8/10
-</p>
-
-<p>
-  <strong>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</strong><br>
-  <em>B.Tech (Hons.) in Electronics and Telecommunication Engineering</em><br>
-  <em>2020 – 2024</em><br>
-  Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em><br>
-  CGPA: 9.51/10
-</p>
-<p>
-  <strong>South Point High School</strong>, Kolkata
-  <ul>
-    <li><em>All India Senior School Certificate Exam (AISSCE), 2020</em> (95%)</li>
-    <li><em>All India Secondary School Exam (AISSE), 2018</em> (97.8%)</li>
-  </ul>
-</p>
-
-<!-- **AISSCE 2020**  
-*South Point High School, Kolkata*  
-2020
-Percentage: 95%
-
-**AISSE 2018**  
-*South Point High School, Kolkata*  
-2018
-Percentage: 97.8% -->
-
 
 ## 🧩 Positions of Responsibility
 
