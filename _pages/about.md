@@ -67,7 +67,7 @@ Percentage: 97.8%
     </tr>
     <tr>
       <td><strong>2024</strong></td>
-      <td>Graduated with a departmental rank of 2 (6th overall in the batch) with a CGPA of 9.51</td>
+      <td>Graduated with a departmental rank of 2 (6th overall in the batch) with a CGPA of 9.51, IIEST, Shibpur</td>
     </tr>
     <!-- <tr>
       <td><strong>2024</strong></td>
