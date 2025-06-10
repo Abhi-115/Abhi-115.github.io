@@ -19,6 +19,11 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 
 
 <h2>🎓 Education</h2>
+<div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
+  <span style="color: #FF1493; font-weight: 500;">2024 – Present</span><br>
+  <strong>Ph.D. in Electronic Systems Engineering</strong><br>
+  <span>Indian Institute of Science (IISc), Bangalore</span>
+</div>
 
 <p>
   <strong>Indian Institute of Science (IISc), Bangalore</strong><br>
