@@ -32,17 +32,18 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
   <strong>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</strong><br>
   <em>B.Tech (Hons.) in Electronics and Telecommunication Engineering</em><br>
   <em>2020 – 2024</em><br>
-  Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
-  CGPA: 9.51/10<br>
+  Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em><br>
+  CGPA: 9.51/10
 </p>
 <p>
   <strong>South Point High School</strong>, Kolkata
   <ul>
-  <li><em>All India Senior School Certificate Exam (AISSCE), 2020</em> (95%)</li>
-  <li><em>All India Secondary School Exam (AISSE), 2018</em> (97.8%)</li>
+    <li><em>All India Senior School Certificate Exam (AISSCE), 2020</em> (95%)</li>
+    <li><em>All India Secondary School Exam (AISSE), 2018</em> (97.8%)</li>
   </ul>
-  </p>
-**AISSCE 2020**  
+</p>
+
+<!-- **AISSCE 2020**  
 *South Point High School, Kolkata*  
 2020
 Percentage: 95%
@@ -50,7 +51,7 @@ Percentage: 95%
 **AISSE 2018**  
 *South Point High School, Kolkata*  
 2018
-Percentage: 97.8%
+Percentage: 97.8% -->
 
 
 ## 🧩 Positions of Responsibility
