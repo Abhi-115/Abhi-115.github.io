@@ -28,10 +28,22 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 </div>
 <div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
   <span style="color: #FF1493; font-weight: 500;">2020 – 2024</span><br>
-  <strong>B.Tech (Hons.) in Electronics and Telecommunication Engineering</strong><br>
+  <strong>B.Tech in Electronics and Telecommunication Engineering</strong><br>
   <span><em>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</em></span><br>
   <span>Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em></span><br>
   <span>CGPA: 9.51/10</span>
+</div>
+<div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
+  <span style="color: #FF1493; font-weight: 500;">2020</span><br>
+  <strong>AISSCE 2020</strong><br>
+  <span><em>South Point High School, Kolkata</em></span><br>
+  <span>Percentage: 95%</span>
+</div>
+<div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
+  <span style="color: #FF1493; font-weight: 500;">2020 – 2024</span><br>
+  <strong>AISSE</strong><br>
+  <span><em>South Point High School, Kolkata</em></span><br>
+  <span>Percentage: 97.8%</span>
 </div>
 
 <p>
