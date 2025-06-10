@@ -11,4 +11,4 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 
 I completed my Bachelor of Technology in Electronics and Telecommunication Engineering from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur, in 2024. My undergraduate thesis was titled “Smart Agreements in the Decentralized P2P Network of Ethereum.”
 
-Beyond academics, I am an avid sports fan and actively participate in various outdoor sports such as cricket and football. I was a part of my departmental football team which won the bronze medal in the IISc EECS Sports Meet, 2024 and I have also received formal training in cricket. Furthermore I am also passionate about painting and have received several accolades in drawing competitions, most notably by securing the second position in a state-wide sit-and-draw competition organised by the [Bengal Chamber of Commerce and Industry](https://bengalchamber.com/) on the occassion of World Environment Day, 2012.
+I completed my schooling from South Point High School, Kolkata.
