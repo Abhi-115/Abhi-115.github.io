@@ -160,4 +160,8 @@ gallery:
     alt: "Abhinava at VLSID'25"
     title: "VLSID 2025"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
 
