@@ -9,7 +9,7 @@ main:
     url: /about/
   - title: "Gallery"
     url: /gallery/
-  - title: "Contact"
-    url : /contact/
   - title: "Beyond the Lab"
     url: /hobbies/
+  - title: "Contact"
+    url : /contact/
