@@ -11,4 +11,44 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 
 I completed my Bachelor of Technology in Electronics and Telecommunication Engineering from the Indian Institute of Engineering Science and Technology (IIEST), Shibpur, in 2024. My undergraduate thesis was titled “Smart Agreements in the Decentralized P2P Network of Ethereum.”
 
-I completed my schooling from South Point High School, Kolkata.
+---
+
+## 🧠 Research Interests
+
+- Post-Quantum Cryptography (PQC)
+- Side-channel resistant cryptographic hardware
+- Low-power, high-performance digital design
+- Machine learning hardware accelerators for biomedical applications
+- Security-focused VLSI system design
+
+---
+
+## 🎓 Education
+
+**Ph.D. in Electronic Systems Engineering**  
+*Indian Institute of Science (IISc), Bangalore*  
+2024 – Present
+
+**B.Tech in Electronics and Telecommunication Engineering**  
+*Indian Institute of Engineering Science and Technology (IIEST), Shibpur*  
+2018 – 2024  
+**Thesis:** *Smart Agreements in the Decentralized P2P Network of Ethereum*
+
+---
+
+## 🧩 Positions of Responsibility
+
+- Core Member, IEEE-IISc VLSI Special Interest Group
+- Student Coordinator, DESE Hardware Hackathon 2024
+- Departmental Football Team Member – EECS Sports Meet, IISc
+
+---
+
+## 🏅 Academic Honors
+
+- Institute Silver Medal, IIEST Shibpur (for outstanding academic performance)
+- Selected Fellow, VLSID 2025
+- All India Rank <insert rank>, GATE Electronics & Communication 2023
+- Second Place – Statewide Drawing Competition, Bengal Chamber of Commerce (2012)
+
+---
