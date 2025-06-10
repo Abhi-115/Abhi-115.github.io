@@ -72,15 +72,19 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.co.in/citations?user=T8IA-zoAAAAJ&hl=en&authuser=2"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/AbhinavaDe?t=mfPFVPr5mMrAO_AKrg9VYQ&s=09"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://x.com/AbhinavaDe?t=mfPFVPr5mMrAO_AKrg9VYQ&s=09"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Abhi-115"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "http://www.youtube.com/@abhinavade1481"
+
 
 footer:
   links:
@@ -99,6 +103,9 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://www.instagram.com/_.abhinava._?igsh=bDI0MG10MmhsNDFu"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "http://www.youtube.com/@abhinavade1481"
 
 defaults:
   # _posts

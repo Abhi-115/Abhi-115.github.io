@@ -4,7 +4,7 @@ layout: single
 permalink: /gallery/
 ---
 
-Here are some moments from recent events:
+<!-- Here are some moments from recent events: -->
 
 <!-- Full-width image with lightbox -->
 <a href="/assets/images/csrl_grp_may25.jpeg" data-lightbox="gallery" data-title="CSRL Group Photo">
