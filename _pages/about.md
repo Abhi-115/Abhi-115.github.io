@@ -9,7 +9,6 @@ My current research focuses on the efficient hardware implementation of Post-Qua
 
 Beyond cryptography, I'm also passionate about building energy-efficient hardware accelerators for machine learning (ML) classifiers, especially for integration in wearable electronics used in real-time, critical physiological signal monitoring, with applications for both patients and athletes.
 
----
 
 ## 🧠 Research Interests
 
@@ -18,7 +17,6 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 - Low-power, high-performance digital design
 - Machine learning hardware accelerators for biomedical applications
 
----
 
 ## 🎓 Education
 
@@ -43,13 +41,11 @@ Percentage: 95%
 2018
 Percentage: 97.8%
 
----
 
 ## 🧩 Positions of Responsibility
 
 - Webmaster, IEEE-IISc VLSI Chapter
 
----
 
 ## 🏅 Academic Honors
 
@@ -86,5 +82,3 @@ Percentage: 97.8%
   </tbody>
 </table>
 
-
----
