@@ -11,12 +11,12 @@ gallery:
     alt: "EECS_ground"
     title: "IISc EECS Football Team"
 gallery2:
-  - url: "/assets/images/coorg1.jpeg"
-    image_path: /assets/images/coorg1.jpeg
+  - url: "/assets/images/coorg4.jpeg"
+    image_path: /assets/images/coorg4.jpeg
     alt: "coorg"
     title: "Mandalpatti Peak, Coorg"
-  - url: /assets/images/bumla2.jpeg
-    image_path: /assets/images/bumla2.jpeg
+  - url: /assets/images/bumla1.jpeg
+    image_path: /assets/images/bumla1.jpeg
     alt: "Bumla pass"
     title: "BumLa Pass"
   - url: /assets/images/sikkim2.jpeg
