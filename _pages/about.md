@@ -29,7 +29,7 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 
 <p>
   <strong>Ph.D. in Electronic Systems Engineering</strong><br>
-  Indian Institute of Science (IISc), Bangalore<br>
+  <em>Indian Institute of Science (IISc), Bangalore</em><br>
   2020 – 2024<br>
   CGPA: 9.51/10<br>
   Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
