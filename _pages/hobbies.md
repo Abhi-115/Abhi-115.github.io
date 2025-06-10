@@ -15,12 +15,11 @@ gallery:
 
 Beyond academics, I am an avid sports fan and actively participate in various outdoor sports such as cricket and football. I was a part of my departmental football team which won the bronze medal in the IISc EECS Sports Meet, 2024 and I have also received formal training in cricket. Furthermore I am also passionate about painting and have received several accolades in drawing competitions, most notably by securing the second position in a state-wide sit-and-draw competition organised by the [Bengal Chamber of Commerce and Industry](https://bengalchamber.com/) on the occassion of World Environment Day, 2012.
 
-Outside of research, I love staying active through sports and creative expression.
+Outside of research, I love staying active through several extra-curricular activities.
 
 ### 🏏 Sports
 I'm a dedicated sports enthusiast. I love to play cricket and football, and was part of my department’s football team that secured the bronze medal at the IISc EECS Sports Meet 2024. I've also received formal cricket training.
-{% include gallery layout="half" %}
-
+{% include gallery layout="half" caption="Photos from IISc EECS Sports Meet, 2024" %}
 
 
 ### 🎨 Art
