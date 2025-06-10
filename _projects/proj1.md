@@ -1,10 +1,10 @@
 ---
-title: "Lattice-Based Cryptography Implementation"
-excerpt: "Developed efficient hardware implementation of CRYSTALS-Kyber post-quantum key encapsulation mechanism."
-header:
-  image: /assets/images/surge1.jpg
-  teaser: /assets/images/surge1.jpg
-project_type: "Research"
-categories: ["research"]
-tags: ["CRYSTALS-Kyber", "PQC"]
+title: "Lattice-Based Cryptography"
+layout: single
+collection: projects
+excerpt: "Hardware implementation of CRYSTALS-Kyber"
+teaser: /assets/images/kyber_thumb.png
+image:
+  path: /assets/images/kyber_full.png
+  alt: "Math sketchboard"
 ---
