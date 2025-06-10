@@ -18,18 +18,29 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 - Machine learning hardware accelerators for biomedical applications
 
 
-## 🎓 Education
+<h3>🎓 Education</h3>
 
-**Ph.D. in Electronic Systems Engineering**  
-*Indian Institute of Science (IISc), Bangalore*  
-2024 – Present
-CGPA: 8.8 (Till 2nd Semester)
+<p>
+  <strong>Indian Institute of Science (IISc), Bangalore</strong><br>
+  Ph.D. in Electronic Systems Engineering<br>
+  Aug 2024 – Present<br>
+  CGPA: 8.8/10
+</p>
 
-**B.Tech in Electronics and Telecommunication Engineering**  
-*Indian Institute of Engineering Science and Technology (IIEST), Shibpur*  
-2020 – 2024  
-CGPA: 9.51
-**Thesis:** *Smart Agreements in the Decentralized P2P Network of Ethereum*
+<p>
+  <strong>Ph.D. in Electronic Systems Engineering</strong><br>
+  Indian Institute of Science (IISc), Bangalore<br>
+  2020 – 2024<br>
+  CGPA: 9.51/10<br>
+  Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
+</p>
+<p>
+  <strong>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</strong><br>
+  B.Tech in Electronics and Telecommunication Engineering<br>
+  2018 – 2024<br>
+  CGPA: 9.51/10<br>
+  Undergraduate Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>
+</p>
 
 **AISSCE 2020**  
 *South Point High School, Kolkata*  
