@@ -13,6 +13,11 @@ Interested in collaborating on research projects in hardware security or discuss
     <a href="mailto:abhinavade@iisc.ac.in">abhinavade@iisc.ac.in</a>
   </p>
   <p>
+    <i class="fas fa-envelope"></i>
+    <strong>Personal Email</strong><br>
+    <a href="mailto:abhinava.de115@gmail.com">abhinava.de115@gmail.com</a>
+  </p>
+  <p>
     <i class="fas fa-map-marker-alt"></i>
     <strong>Lab Location</strong><br>
     Circuits & Security Research Lab, <br>
