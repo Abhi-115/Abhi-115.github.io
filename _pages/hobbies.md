@@ -5,6 +5,10 @@ gallery:
   - url: /assets/images/eecs_medal.jpg
     image_path: /assets/images/eecs_medal.jpg
     alt: "EECS"
+    title: "IISc EECS Football Team with bronze medal"
+  - url: /assets/images/eecs_ground.jpg
+    image_path: /assets/images/eecs_ground.jpg
+    alt: "EECS_ground"
     title: "IISc EECS Football Team"
 
 ---
@@ -15,7 +19,7 @@ Outside of research, I love staying active through sports and creative expressio
 
 ### 🏏 Sports
 I'm a dedicated sports enthusiast. I love to play cricket and football, and was part of my department’s football team that secured the bronze medal at the IISc EECS Sports Meet 2024. I've also received formal cricket training.
-{% include gallery layout="full" %}
+{% include gallery layout="half" %}
 
 
 
