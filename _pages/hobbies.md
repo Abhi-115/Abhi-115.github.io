@@ -15,10 +15,10 @@ gallery2:
     image_path: /assets/images/coorg1.jpeg
     alt: "coorg"
     title: "Mandalpatti Peak, Coorg"
-  - url: /assets/images/rohtang1.jpeg
-    image_path: /assets/images/rohtang1.jpeg
-    alt: "rohtang pass"
-    title: "Rohtang Pass"
+  - url: /assets/images/bumla2.jpeg
+    image_path: /assets/images/bumla2.jpeg
+    alt: "Bumla pass"
+    title: "BumLa Pass"
   - url: /assets/images/sikkim2.jpeg
     image_path: /assets/images/sikkim2.jpeg
     alt: "zero point, north sikkim"
@@ -32,7 +32,6 @@ Beyond research and academia, I’m passionate about staying active and involved
 ### ⚽ Sports
 I'm a dedicated sports enthusiast. I love to play cricket and football, and was part of my department’s football team that secured the bronze medal at the IISc EECS Sports Meet 2024. I've also received formal training in cricket. Furthermore, I am also an avid motorsports fan, especially single seater car racing.
 {% include gallery layout="half" caption="Photos from IISc EECS Sports Meet, 2024" %}
-
 
 ### 🎨 Art
 I’m passionate about painting and have earned accolades in various competitions. One of the memorable moments was securing the second position in a state-level sit-and-draw competition organized by the [Bengal Chamber of Commerce and Industry](https://bengalchamber.com/) on World Environment Day, 2012.
