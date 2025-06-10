@@ -3,8 +3,8 @@ title: "Lattice-Based Cryptography"
 layout: single
 collection: projects
 excerpt: "Hardware implementation of CRYSTALS-Kyber"
-teaser: /assets/images/kyber_thumb.png
+teaser: /assets/images/surge1.JPG
 image:
-  path: /assets/images/kyber_full.png
+  path: /assets/images/surge1.JPG
   alt: "Math sketchboard"
 ---
