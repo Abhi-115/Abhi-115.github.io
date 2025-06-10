@@ -3,11 +3,13 @@ main:
   #   url: /posts/
   #- title: "Categories"
   #  url: /categories/
-  - title: "Tags"
-    url: /tags/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "About"
     url: /about/
   - title: "Gallery"
     url: /gallery/
   - title: "Contact"
     url : /contact/
+  - title: "Beyond the Lab"
+    url: /hobbies/
