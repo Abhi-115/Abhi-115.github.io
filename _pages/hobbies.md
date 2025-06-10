@@ -23,6 +23,19 @@ gallery2:
     image_path: /assets/images/sikkim2.jpeg
     alt: "zero point, north sikkim"
     title: "Zero Point, North Sikkim"
+  - url: /assets/images/sikkim1.jpeg
+    image_path: /assets/images/sikkim1.jpeg
+    alt: "Zero point, north sikkim"
+    title: "Snowy Zero Point, North Sikkim"
+  - url: /assets/images/arun1.jpeg
+    image_path: /assets/images/arun1.jpeg
+    alt: "Arunachal Skies"
+    title: "Dudhsagar Falls, Arunachal Pradesh"
+  - url: /assets/images/rohtang2.jpeg
+    image_path: /assets/images/rohtang2.jpeg
+    alt: "rohtang pass"
+    title: "Rohtang Pass, Himachal Pradesh" 
+  
 ---
 
 <!-- Beyond academics, I am an avid sports fan and actively participate in various outdoor sports such as cricket and football. I was a part of my departmental football team which won the bronze medal in the IISc EECS Sports Meet, 2024 and I have also received formal training in cricket. Furthermore I am also passionate about painting and have received several accolades in drawing competitions, most notably by securing the second position in a state-wide sit-and-draw competition organised by the [Bengal Chamber of Commerce and Industry](https://bengalchamber.com/) on the occassion of World Environment Day, 2012. -->
