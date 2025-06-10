@@ -18,15 +18,15 @@ gallery2:
   - url: /assets/images/bumla1.jpeg
     image_path: /assets/images/bumla1.jpeg
     alt: "Bumla pass"
-    title: "BumLa Pass"
+    title: "BumLa Pass, Arunachal Pradesh"
   - url: /assets/images/sikkim2.jpeg
     image_path: /assets/images/sikkim2.jpeg
-    alt: "zero point, north sikkim"
-    title: "Zero Point, North Sikkim"
+    alt: "yumthang, north sikkim"
+    title: "Yumthang Valley, North Sikkim"
   - url: /assets/images/sikkim1.jpeg
     image_path: /assets/images/sikkim1.jpeg
     alt: "Zero point, north sikkim"
-    title: "Snowy Zero Point, North Sikkim"
+    title: "Zero Point, North Sikkim"
   - url: /assets/images/arun1.jpeg
     image_path: /assets/images/arun1.jpeg
     alt: "Arunachal Skies"
@@ -50,6 +50,6 @@ I'm a dedicated sports enthusiast. I love to play cricket and football, and was 
 I’m passionate about painting and have earned accolades in various competitions. One of the memorable moments was securing the second position in a state-level sit-and-draw competition organized by the [Bengal Chamber of Commerce and Industry](https://bengalchamber.com/) on World Environment Day, 2012.
 
 ### 🌍 Travelling
-I love to travel—especially to the mountains. Almost every year, I make it a point to head to the Himalayas, where I find a deep sense of peace and connection. So far, I’ve explored the entire Indian Himalayan range, with Kashmir being the only region still on my list. While I do enjoy the serenity of beaches, it’s the mountains that truly call to me.
+I love to travel, especially to the mountains. Almost every year, I make it a point to head to the Himalayas, where I find a deep sense of peace and connection. So far, I’ve explored the entire Indian Himalayan range, with Kashmir being the only region still on my list. While I do enjoy the serenity of beaches, it’s the mountains that truly call to me.
 
-{% include gallery id="gallery2" caption="Mountains around India" %}
+{% include gallery id="gallery2" caption="Small glipses of mountains across India" %}
