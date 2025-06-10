@@ -22,7 +22,9 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
 <div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
   <span style="color: #FF1493; font-weight: 500;">2024 – Present</span><br>
   <strong>Ph.D. in Electronic Systems Engineering</strong><br>
-  <span>Indian Institute of Science (IISc), Bangalore</span>
+  <span><em>Indian Institute of Science (IISc), Bangalore</em></span>
+  <span>Advisor: Dr. Debayan Das</span>
+  <span>CGPA: 8.8/10</span>
 </div>
 
 <p>
