@@ -6,5 +6,6 @@ excerpt: "Hardware implementation of CRYSTALS-Kyber"
 header:
   teaser: "/assets/images/surge2.jpeg"
   image:  "/assets/images/surge2.jpeg"
-categories: ["Research"]
+tags: [Hardware]
+category: research
 ---
