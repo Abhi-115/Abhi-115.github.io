@@ -144,6 +144,12 @@ defaults:
         - /assets/css/lightbox.css
       js:
         - /assets/js/lightbox.js
+  # custom css
+  - scope:
+      path: ""
+    values:
+      css:
+        - /assets/css/custom.css
 
 category_archive:
   type: liquid
@@ -175,3 +181,5 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+sass:
+  style: compressed
