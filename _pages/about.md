@@ -26,14 +26,12 @@ Beyond cryptography, I'm also passionate about building energy-efficient hardwar
   <span>Advisor: Dr. Debayan Das</span><br>
   <span>CGPA: 8.8/10</span>
 </div>
-<div class="education-entry">
-
-<span style="color:#ff0099;"><strong>2020 – 2024</strong></span>  
-<strong>B.Tech in Electronics and Telecommunication Engineering</strong>  
-<em>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</em>  
-Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em>  
-CGPA: 9.51/10
-
+<div class="education-entry" style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
+    <span style="color: #FF0099;font-weight: 500;"><strong>2020 – 2024</strong></span><br> 
+    <strong>B.Tech in Electronics and Telecommunication Engineering</strong><br>  
+    <span><em>Indian Institute of Engineering Science and Technology (IIEST), Shibpur</em></span><br>  
+    <span>Thesis: <em>Smart Agreements in the Decentralized P2P Network of Ethereum</em></span><br>  
+    <span>CGPA: 9.51/10</span>
 </div>
 <div style="border-left: 4px solid #FF1493; padding-left: 15px; margin-bottom: 1.5em;">
   <span style="color: #FF1493; font-weight: 500;">2020 – 2024</span><br>
