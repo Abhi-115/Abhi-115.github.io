@@ -5,10 +5,11 @@ main:
   #  url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Projects"
-    url: /projects/
+ 
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects/
   - title: "Gallery"
     url: /gallery/
   - title: "Beyond the Lab"

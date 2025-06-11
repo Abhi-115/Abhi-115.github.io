@@ -7,4 +7,5 @@ entries_layout: grid
 classes: wide
 filter:
   show: true
+  label: "Project Type"
 ---

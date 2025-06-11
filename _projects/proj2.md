@@ -6,4 +6,5 @@ collection: projects
 header:
     teaser: "/assets/images/surge2.jpeg"
     image:  "/assets/images/surge2.jpeg"
+categories: ["Research"]
 ---
