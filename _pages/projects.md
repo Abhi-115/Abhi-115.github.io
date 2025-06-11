@@ -19,7 +19,7 @@ filter:
 
 ## Course Projects
 
-{% assign course_projects = site.projects | where: "category", "coursework" %}
+{% assign course_projects = site.projects | where: "category", "course" %}
 {% for project in course_projects %}
   {% include archive-single.html %}
 {% endfor %}
