@@ -22,6 +22,8 @@ twitter_username: AbhinavaDe
 github_username: Abhi-115
 #theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "neon"
+custom_css:
+  - /assets/css/custom.css
 search: true
 
 # Build settings
