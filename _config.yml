@@ -181,7 +181,7 @@ gallery:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 
 sass:
   style: compressed
