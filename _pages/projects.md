@@ -11,15 +11,16 @@ filter:
 ---
 
 ## Research Projects
-
-{% assign research_projects = site.projects | where: "category", "research" %}
-{% for project in research_projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="grid__wrapper">
+  {% assign research_projects = site.projects | where: "category", "research" %}
+  {% for project in research_projects %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
 ## Course Projects
-
-{% assign course_projects = site.projects | where: "category", "course" %}
-{% for project in course_projects %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="grid__wrapper">
+  {% assign course_projects = site.projects | where: "category", "course" %}
+  {% for project in course_projects %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
