@@ -2,10 +2,10 @@
 permalink: /hobbies/
 title: "Beyond the Lab"
 gallery:
-  - url: /assets/images/eecs_medal.jpg
-    image_path: /assets/images/eecs_medal.jpg
-    alt: "EECS"
-    title: "IISc EECS Football Team with bronze medal"
+  - url: /assets/images/spandan_cricket_winners.jpeg
+    image_path: /assets/images/spandan_cricket_winners.jpeg
+    alt: "Spandan"
+    title: "Winning cricket team at Spandan Sports Meet 2025"
   - url: /assets/images/eecs_ground.jpg
     image_path: /assets/images/eecs_ground.jpg
     alt: "EECS_ground"
@@ -43,7 +43,7 @@ gallery2:
 Beyond research and academia, I’m passionate about staying active and involved through sports, art, and other creative pursuits.
 
 ### ⚽ Sports
-I'm a dedicated sports enthusiast. I love to play cricket and football, and was part of my department’s football team that secured the bronze medal at the IISc EECS Sports Meet 2024. I've also received formal training in cricket. Furthermore, I am also an avid motorsports fan, especially single seater car racing.
+I'm a passionate sports enthusiast with a strong interest in both playing and following competitive sports. I actively play cricket and football, and was a member of my department’s football team that won the bronze medal at the IISc EECS Sports Meet 2024. I have also received formal training in cricket, and our team secured the gold medal at the Spandan IISc Sports Meet 2025. In addition to playing, I'm an avid motorsports fan, with a particular interest in single-seater car racing.
 {% include gallery layout="half" caption="Photos from IISc EECS Sports Meet, 2024" %}
 
 ### 🎨 Art
