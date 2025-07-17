@@ -43,7 +43,7 @@ gallery2:
 Beyond research and academia, I’m passionate about staying active and involved through sports, art, and other creative pursuits.
 
 ### ⚽ Sports
-I'm a passionate sports enthusiast with a strong interest in both playing and following competitive sports. I actively play cricket and football, and was a member of my department’s football team that won the bronze medal at the IISc EECS Sports Meet 2024. I have also received formal training in cricket, and our team secured the gold medal at the Spandan IISc Sports Meet 2025. In addition to playing, I'm an avid motorsports fan, with a particular interest in single-seater car racing.
+I'm a passionate sports enthusiast with a strong interest in both playing and following competitive sports. I actively play cricket and football, and was a member of my department’s football team that won the bronze medal at the IISc EECS Sports Meet 2024. I have also received formal training in cricket, and our team secured the gold medal at IISc's Spandan Sports Meet 2025. In addition to playing, I'm an avid motorsports fan, with a particular interest in single-seater car racing.
 {% include gallery layout="half" caption="Photos from Spandan Sports Meet 2025 and IISc EECS Sports Meet 2024" %}
 
 ### 🎨 Art
