@@ -52,4 +52,4 @@ I’m passionate about painting and have earned accolades in various competition
 ### 🌍 Travelling
 I love to travel, especially to the mountains. Almost every year, I make it a point to head to the Himalayas, where I find a deep sense of peace and connection. So far, I’ve explored the entire Indian Himalayan range, with Kashmir being the only region still on my list. While I do enjoy the serenity of beaches, it’s the mountains that truly call to me.
 
-{% include gallery id="gallery2" caption="Small glipses of mountains across India" %}
+{% include gallery id="gallery2" caption="Glimpses of mountains across India" %}
